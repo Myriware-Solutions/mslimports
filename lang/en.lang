@@ -2,12 +2,6 @@ Running Live Interface of Myriware Scripting Language (v0). Anytime, enter 'STOP
 
 STOP
 
-CONFIG
-Starting CONFIG editor. Enter <key> <true|false|string>. Enter END to terminate. IF YOU DO NOT KNOW HOW TO USE THIS, DO NOT USE THIS.
-END
-
-FILE
-
 raw
 echo
 dump
@@ -15,3 +9,8 @@ vardump
 make
 break
 execute
+import
+get
+Extern
+send
+wait
